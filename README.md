@@ -1,9 +1,13 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
 **Nama Mahasiswa**: Rule Lulu Damara 
+
 **NRP**: 5025211050 
+
 **Judul TA**: Prediksi Kelulusan pada Data Histori Mahasiswa Menggunakan Deep Learning dan Parallel Computing
+
 **Dosen Pembimbing**: Dini Adni Navastara, S.Kom, M.Sc.
+
 **Dosen Ko-pembimbing**: Bagus Jati Santoso, S.Kom, Ph.D.
 
 ---
