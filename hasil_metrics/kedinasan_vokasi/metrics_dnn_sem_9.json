@@ -1,0 +1,10 @@
+{
+    "semester": 9,
+    "loss": 1.1102,
+    "accuracy": 0.4551,
+    "precision": 0.0569,
+    "recall": 0.125,
+    "f1_score": 0.0782,
+    "training_duration_seconds": 33.72,
+    "model_path": "model_kedinasan_vokasi/dnn_sem_9.keras"
+}

@@ -1,0 +1,10 @@
+{
+    "semester": 3,
+    "loss": NaN,
+    "accuracy": 0.1004,
+    "precision": 0.0143,
+    "recall": 0.1429,
+    "f1_score": 0.0261,
+    "training_duration_seconds": 9.5,
+    "model_path": "model_pts_vokasi/cnn_sem_3.keras"
+}

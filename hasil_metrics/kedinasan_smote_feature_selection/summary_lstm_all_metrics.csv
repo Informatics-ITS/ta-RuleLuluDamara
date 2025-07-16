@@ -1,0 +1,13 @@
+semester,loss,accuracy,precision,recall,f1_score,training_duration_seconds,model_path
+1,1.0745,0.577,0.4783,0.4634,0.4326,100.97,model_kedinasan_smote_feature_selection/lstm_sem_1.keras
+2,0.9433,0.6237,0.5615,0.5541,0.5186,177.96,model_kedinasan_smote_feature_selection/lstm_sem_2.keras
+3,1.0105,0.6024,0.5593,0.541,0.5252,218.71,model_kedinasan_smote_feature_selection/lstm_sem_3.keras
+4,0.9456,0.6353,0.6127,0.6037,0.5823,257.79,model_kedinasan_smote_feature_selection/lstm_sem_4.keras
+5,1.0165,0.602,0.5692,0.5844,0.5638,287.58,model_kedinasan_smote_feature_selection/lstm_sem_5.keras
+6,0.9946,0.6096,0.5893,0.6014,0.5841,314.02,model_kedinasan_smote_feature_selection/lstm_sem_6.keras
+7,1.0038,0.6041,0.5909,0.6013,0.5835,342.07,model_kedinasan_smote_feature_selection/lstm_sem_7.keras
+8,0.965,0.6134,0.6066,0.6118,0.5955,340.91,model_kedinasan_smote_feature_selection/lstm_sem_8.keras
+9,0.988,0.605,0.5869,0.6019,0.5894,370.41,model_kedinasan_smote_feature_selection/lstm_sem_9.keras
+10,1.0012,0.6031,0.587,0.6019,0.5853,378.84,model_kedinasan_smote_feature_selection/lstm_sem_10.keras
+11,0.9863,0.61,0.5962,0.6112,0.5936,364.11,model_kedinasan_smote_feature_selection/lstm_sem_11.keras
+12,0.9853,0.6146,0.6012,0.6123,0.5989,389.49,model_kedinasan_smote_feature_selection/lstm_sem_12.keras

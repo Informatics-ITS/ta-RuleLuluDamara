@@ -1,0 +1,131 @@
+{
+    "duration": 834.05,
+    "models": [
+        {
+            "sem": 5,
+            "acc": 0.7712,
+            "prec": 0.5536,
+            "f1": 0.4966,
+            "recall": 0.5089,
+            "dur": 54.31,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_5.keras"
+        },
+        {
+            "sem": 14,
+            "acc": 0.7112,
+            "prec": 0.6404,
+            "f1": 0.4639,
+            "recall": 0.4553,
+            "dur": 78.11,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_14.keras"
+        },
+        {
+            "sem": 11,
+            "acc": 0.6729,
+            "prec": 0.6201,
+            "f1": 0.4853,
+            "recall": 0.4531,
+            "dur": 74.25,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_11.keras"
+        },
+        {
+            "sem": 4,
+            "acc": 0.627,
+            "prec": 0.3606,
+            "f1": 0.3026,
+            "recall": 0.2986,
+            "dur": 46.02,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_4.keras"
+        },
+        {
+            "sem": 3,
+            "acc": 0.6222,
+            "prec": 0.2009,
+            "f1": 0.2191,
+            "recall": 0.2488,
+            "dur": 34.87,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_3.keras"
+        },
+        {
+            "sem": 9,
+            "acc": 0.6136,
+            "prec": 0.5229,
+            "f1": 0.3312,
+            "recall": 0.3158,
+            "dur": 72.79,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_9.keras"
+        },
+        {
+            "sem": 10,
+            "acc": 0.5883,
+            "prec": 0.497,
+            "f1": 0.322,
+            "recall": 0.3091,
+            "dur": 73.33,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_10.keras"
+        },
+        {
+            "sem": 2,
+            "acc": 0.5598,
+            "prec": 0.3277,
+            "f1": 0.2811,
+            "recall": 0.2838,
+            "dur": 25.29,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_2.keras"
+        },
+        {
+            "sem": 7,
+            "acc": 0.5442,
+            "prec": 0.3031,
+            "f1": 0.2306,
+            "recall": 0.2493,
+            "dur": 67.03,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_7.keras"
+        },
+        {
+            "sem": 8,
+            "acc": 0.5389,
+            "prec": 0.4141,
+            "f1": 0.2534,
+            "recall": 0.2559,
+            "dur": 70.65,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_8.keras"
+        },
+        {
+            "sem": 6,
+            "acc": 0.5328,
+            "prec": 0.3789,
+            "f1": 0.3734,
+            "recall": 0.4858,
+            "dur": 62.31,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_6.keras"
+        },
+        {
+            "sem": 12,
+            "acc": 0.5144,
+            "prec": 0.3564,
+            "f1": 0.2273,
+            "recall": 0.2753,
+            "dur": 75.85,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_12.keras"
+        },
+        {
+            "sem": 1,
+            "acc": 0.4955,
+            "prec": 0.269,
+            "f1": 0.2151,
+            "recall": 0.2453,
+            "dur": 14.7,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_1.keras"
+        },
+        {
+            "sem": 13,
+            "acc": 0.4326,
+            "prec": 0.2849,
+            "f1": 0.2306,
+            "recall": 0.247,
+            "dur": 76.86,
+            "path": "model_ptn_smote_feature_selection/tuned_11/dnn_sem_13.keras"
+        }
+    ]
+}

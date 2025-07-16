@@ -1,0 +1,2 @@
+semester,loss,accuracy,precision,recall,f1_score,training_duration_seconds,model_path
+7,1.0964,0.5744,0.3316,0.3294,0.3231,1449.86,model_pts/lstm_sem_7.keras

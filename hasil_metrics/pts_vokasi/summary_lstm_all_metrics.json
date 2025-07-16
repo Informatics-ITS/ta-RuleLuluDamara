@@ -1,0 +1,20 @@
+{
+    "total_training_duration_seconds": 1270.1,
+    "top_3_models": [
+        {
+            "semester": 2,
+            "accuracy": 0.7861,
+            "model_path": "model_pts_vokasi/lstm_sem_2.keras"
+        },
+        {
+            "semester": 1,
+            "accuracy": 0.1076,
+            "model_path": "model_pts_vokasi/lstm_sem_1.keras"
+        },
+        {
+            "semester": 3,
+            "accuracy": 0.1004,
+            "model_path": "model_pts_vokasi/lstm_sem_3.keras"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+semester,accuracy,precision,recall,f1_score,dur,model_path
+1,0.6217,0.588,0.6217,0.5935,10.76,model_pts_feature_selection_svm/svm_sem_1.pkl
+2,0.6385,0.6076,0.6385,0.615,31.3,model_pts_feature_selection_svm/svm_sem_2.pkl
+3,0.653,0.6293,0.653,0.6313,56.0,model_pts_feature_selection_svm/svm_sem_3.pkl
+4,0.6672,0.6431,0.6672,0.646,83.58,model_pts_feature_selection_svm/svm_sem_4.pkl
+5,0.6796,0.6629,0.6796,0.6617,111.48,model_pts_feature_selection_svm/svm_sem_5.pkl
+6,0.6878,0.6753,0.6878,0.6692,139.48,model_pts_feature_selection_svm/svm_sem_6.pkl
+7,0.6916,0.676,0.6916,0.6742,181.0,model_pts_feature_selection_svm/svm_sem_7.pkl
+8,0.6989,0.6834,0.6989,0.682,213.13,model_pts_feature_selection_svm/svm_sem_8.pkl
+9,0.7001,0.6866,0.7001,0.6846,223.47,model_pts_feature_selection_svm/svm_sem_9.pkl
+10,0.696,0.6844,0.696,0.6812,224.99,model_pts_feature_selection_svm/svm_sem_10.pkl
+11,0.7007,0.6876,0.7007,0.6859,228.9,model_pts_feature_selection_svm/svm_sem_11.pkl
+12,0.6969,0.6841,0.6969,0.6823,230.85,model_pts_feature_selection_svm/svm_sem_12.pkl
+13,0.6989,0.6869,0.6989,0.6848,238.68,model_pts_feature_selection_svm/svm_sem_13.pkl
+14,0.7007,0.6895,0.7007,0.686,239.38,model_pts_feature_selection_svm/svm_sem_14.pkl

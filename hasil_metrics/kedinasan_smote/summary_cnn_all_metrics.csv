@@ -1,0 +1,13 @@
+semester,loss,accuracy,precision,recall,f1_score,dur,model_path
+1,0.3804,0.8651,0.8444,0.8449,0.8426,52.02,model_kedinasan_smote/cnn_sem_1.keras
+2,0.2894,0.8934,0.8714,0.8754,0.873,104.83,model_kedinasan_smote/cnn_sem_2.keras
+3,0.5767,0.7804,0.7715,0.7567,0.7531,35.31,model_kedinasan_smote/cnn_sem_3.keras
+4,0.5545,0.7887,0.7862,0.7888,0.7751,40.23,model_kedinasan_smote/cnn_sem_4.keras
+5,0.5417,0.7919,0.7938,0.7874,0.784,45.55,model_kedinasan_smote/cnn_sem_5.keras
+6,0.5527,0.7808,0.7944,0.7846,0.7776,46.67,model_kedinasan_smote/cnn_sem_6.keras
+7,0.504,0.8084,0.811,0.8034,0.8031,49.03,model_kedinasan_smote/cnn_sem_7.keras
+8,0.5124,0.8071,0.8154,0.8057,0.8046,62.48,model_kedinasan_smote/cnn_sem_8.keras
+9,0.5155,0.8063,0.8087,0.8056,0.8037,50.47,model_kedinasan_smote/cnn_sem_9.keras
+10,0.5211,0.7966,0.7985,0.7963,0.7955,50.46,model_kedinasan_smote/cnn_sem_10.keras
+11,0.2658,0.9063,0.908,0.9062,0.9064,200.29,model_kedinasan_smote/cnn_sem_11.keras
+12,0.4993,0.8098,0.8138,0.8091,0.8073,51.29,model_kedinasan_smote/cnn_sem_12.keras

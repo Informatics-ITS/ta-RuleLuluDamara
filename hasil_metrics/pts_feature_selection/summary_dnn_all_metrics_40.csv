@@ -1,0 +1,15 @@
+semester,loss,accuracy,precision,recall,f1_score,training_duration_seconds,model_path
+1,0.8916,0.6687,0.3868,0.3488,0.3515,9.6,model_pts_feature_selection/dnn_sem_1.keras
+2,0.7872,0.7036,0.413,0.382,0.3869,17.64,model_pts_feature_selection/dnn_sem_2.keras
+3,0.7226,0.7381,0.5287,0.4416,0.4601,23.94,model_pts_feature_selection/dnn_sem_3.keras
+4,0.7047,0.749,0.5785,0.4435,0.4668,29.7,model_pts_feature_selection/dnn_sem_4.keras
+5,0.6821,0.7571,0.5435,0.4525,0.4739,34.95,model_pts_feature_selection/dnn_sem_5.keras
+6,0.6532,0.7612,0.581,0.462,0.488,40.0,model_pts_feature_selection/dnn_sem_6.keras
+7,0.6371,0.7651,0.7028,0.4927,0.5194,44.52,model_pts_feature_selection/dnn_sem_7.keras
+8,0.6281,0.7716,0.5758,0.4812,0.499,47.88,model_pts_feature_selection/dnn_sem_8.keras
+9,0.6382,0.7637,0.6002,0.5137,0.5205,48.45,model_pts_feature_selection/dnn_sem_9.keras
+10,0.6173,0.7731,0.6059,0.5174,0.5385,49.69,model_pts_feature_selection/dnn_sem_10.keras
+11,0.6172,0.7691,0.6298,0.5113,0.5278,50.24,model_pts_feature_selection/dnn_sem_11.keras
+12,0.6071,0.773,0.6685,0.5237,0.5651,49.61,model_pts_feature_selection/dnn_sem_12.keras
+13,0.6357,0.7616,0.6118,0.5041,0.5258,51.13,model_pts_feature_selection/dnn_sem_13.keras
+14,0.6235,0.7753,0.6257,0.539,0.5635,52.46,model_pts_feature_selection/dnn_sem_14.keras

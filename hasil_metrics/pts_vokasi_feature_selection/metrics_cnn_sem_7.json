@@ -1,0 +1,10 @@
+{
+    "semester": 7,
+    "loss": 29.448,
+    "accuracy": 0.5236,
+    "precision": 0.27,
+    "recall": 0.2166,
+    "f1_score": 0.2001,
+    "training_duration_seconds": 15.18,
+    "model_path": "model_pts_vokasi/1FeatureSelection/cnn_sem_7.keras"
+}

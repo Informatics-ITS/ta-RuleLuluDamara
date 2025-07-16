@@ -1,0 +1,67 @@
+{
+    "total_training_duration_seconds": 3299.36,
+    "top_3_models": [
+        {
+            "semester": 14,
+            "loss": 0.1855,
+            "accuracy": 0.9405,
+            "precision": 0.8234,
+            "recall": 0.6162,
+            "f1_score": 0.6679,
+            "training_duration_seconds": 272.58,
+            "model_path": "model_PTN_S1/1FeatureSelection/lstm_sem_14.keras"
+        }, 
+        {
+            "semester": 13,
+            "loss": 0.1715,
+            "accuracy": 0.9449,
+            "precision": 0.7527,
+            "recall": 0.7675,
+            "f1_score": 0.7466,
+            "training_duration_seconds": 323.71,
+            "model_path": "model_PTN_S1/1FeatureSelection/lstm_sem_13.keras"
+        },
+        {
+            "semester": 12,
+            "loss": 0.1825,
+            "accuracy": 0.9403,
+            "precision": 0.7736,
+            "recall": 0.6573,
+            "f1_score": 0.6702,
+            "training_duration_seconds": 320.84,
+            "model_path": "model_PTN_S1/1FeatureSelection/lstm_sem_12.keras"
+        }, 
+        {
+            "semester": 11,
+            "loss": 0.217,
+            "accuracy": 0.9318,
+            "precision": 0.7168,
+            "recall": 0.6546,
+            "f1_score": 0.6437,
+            "training_duration_seconds": 318.14,
+            "model_path": "model_PTN_S1/1FeatureSelection/lstm_sem_11.keras"
+        },
+        {
+            "semester": 10,
+            "loss": 0.1807,
+            "accuracy": 0.9421,
+            "precision": 0.7259,
+            "recall": 0.6694,
+            "f1_score": 0.6856,
+            "training_duration_seconds": 308.12,
+            "model_path": "model_PTN_S1/1FeatureSelection/lstm_sem_10.keras"
+        }, 
+        {
+            "semester": 9,
+            "loss": 0.2091,
+            "accuracy": 0.9308,
+            "precision": 0.6777,
+            "recall": 0.646,
+            "f1_score": 0.6439,
+            "training_duration_seconds": 299.7,
+            "model_path": "model_PTN_S1/1FeatureSelection/lstm_sem_9.keras"
+        }
+
+
+    ]
+}

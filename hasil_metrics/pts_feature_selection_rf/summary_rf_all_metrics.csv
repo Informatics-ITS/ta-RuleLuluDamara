@@ -1,0 +1,15 @@
+semester,accuracy,precision,recall,f1_score,dur,model_path
+1,0.6602,0.6547,0.6602,0.6563,1.42,model_pts_feature_selection_rf/rf_sem_1.pkl
+2,0.6856,0.6777,0.6856,0.6801,2.65,model_pts_feature_selection_rf/rf_sem_2.pkl
+3,0.7085,0.7001,0.7085,0.7024,3.98,model_pts_feature_selection_rf/rf_sem_3.pkl
+4,0.7309,0.7238,0.7309,0.7251,5.11,model_pts_feature_selection_rf/rf_sem_4.pkl
+5,0.7421,0.736,0.7421,0.7371,6.02,model_pts_feature_selection_rf/rf_sem_5.pkl
+6,0.7452,0.7392,0.7452,0.7401,6.89,model_pts_feature_selection_rf/rf_sem_6.pkl
+7,0.757,0.7511,0.757,0.7519,7.62,model_pts_feature_selection_rf/rf_sem_7.pkl
+8,0.7683,0.7627,0.7683,0.7632,8.56,model_pts_feature_selection_rf/rf_sem_8.pkl
+9,0.7743,0.7695,0.7743,0.7702,8.92,model_pts_feature_selection_rf/rf_sem_9.pkl
+10,0.7737,0.7703,0.7737,0.7701,9.07,model_pts_feature_selection_rf/rf_sem_10.pkl
+11,0.7761,0.7722,0.7761,0.7723,9.08,model_pts_feature_selection_rf/rf_sem_11.pkl
+12,0.7739,0.7701,0.7739,0.7704,9.19,model_pts_feature_selection_rf/rf_sem_12.pkl
+13,0.7743,0.7708,0.7743,0.7709,9.05,model_pts_feature_selection_rf/rf_sem_13.pkl
+14,0.7783,0.7753,0.7783,0.7751,9.06,model_pts_feature_selection_rf/rf_sem_14.pkl

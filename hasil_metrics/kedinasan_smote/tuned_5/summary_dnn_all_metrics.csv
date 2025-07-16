@@ -1,0 +1,13 @@
+semester,loss,accuracy,precision,recall,f1_score,training_duration_seconds,model_path
+1,0.4635,0.8108,0.8073,0.7888,0.7774,14.96,model_kedinasan_smote/tuned_5/dnn_sem_1.keras
+2,0.3039,0.8836,0.8586,0.8755,0.8627,22.16,model_kedinasan_smote/tuned_5/dnn_sem_2.keras
+3,0.3455,0.8707,0.8739,0.8619,0.8574,27.07,model_kedinasan_smote/tuned_5/dnn_sem_3.keras
+4,0.4445,0.8347,0.865,0.829,0.8247,30.93,model_kedinasan_smote/tuned_5/dnn_sem_4.keras
+5,0.6118,0.7965,0.8529,0.7768,0.7746,34.55,model_kedinasan_smote/tuned_5/dnn_sem_5.keras
+6,0.2492,0.9049,0.9047,0.9059,0.9022,38.87,model_kedinasan_smote/tuned_5/dnn_sem_6.keras
+7,0.3281,0.88,0.8931,0.8707,0.8714,41.55,model_kedinasan_smote/tuned_5/dnn_sem_7.keras
+8,0.2326,0.9128,0.9139,0.9123,0.9117,42.31,model_kedinasan_smote/tuned_5/dnn_sem_8.keras
+9,0.2665,0.9008,0.903,0.9003,0.9004,42.36,model_kedinasan_smote/tuned_5/dnn_sem_9.keras
+10,0.2572,0.9044,0.905,0.9037,0.9037,43.07,model_kedinasan_smote/tuned_5/dnn_sem_10.keras
+11,0.3473,0.8685,0.8851,0.8692,0.868,46.23,model_kedinasan_smote/tuned_5/dnn_sem_11.keras
+12,0.2956,0.8906,0.9017,0.8903,0.8914,47.32,model_kedinasan_smote/tuned_5/dnn_sem_12.keras

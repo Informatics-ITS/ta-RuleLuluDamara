@@ -1,0 +1,10 @@
+{
+    "semester": 9,
+    "loss": 0.2091,
+    "accuracy": 0.9308,
+    "precision": 0.6777,
+    "recall": 0.646,
+    "f1_score": 0.6439,
+    "training_duration_seconds": 299.7,
+    "model_path": "model_PTN_S1/1FeatureSelection/lstm_sem_9.keras"
+}

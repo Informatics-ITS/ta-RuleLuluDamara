@@ -1,0 +1,10 @@
+{
+    "total_training_duration_seconds": 245.12,
+    "top_3_models": [
+        {
+            "semester": 12,
+            "accuracy": 0.7784,
+            "model_path": "model_PTN_S1/lstm_sem_12.keras"
+        }
+    ]
+}

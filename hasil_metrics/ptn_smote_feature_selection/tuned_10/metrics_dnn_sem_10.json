@@ -1,0 +1,10 @@
+{
+    "semester": 10,
+    "loss": 1.2175,
+    "accuracy": 0.5504,
+    "precision": 0.3817,
+    "recall": 0.4022,
+    "f1_score": 0.3393,
+    "training_duration_seconds": 59.52,
+    "model_path": "model_ptn_smote_feature_selection/tuned_10/dnn_sem_10.keras"
+}

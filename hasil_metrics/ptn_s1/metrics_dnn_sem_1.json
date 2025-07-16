@@ -1,0 +1,11 @@
+{
+    "semester": 1,
+    "loss": 1.3388,
+    "accuracy": 0.5013,
+    "precision": 0.0627,
+    "recall": 0.125,
+    "f1_score": 0.0835,
+    "roc_auc": 0.375,
+    "training_duration_seconds": 6.04,
+    "model_path": "model_PTN_S1/dnn_sem_1.keras"
+}

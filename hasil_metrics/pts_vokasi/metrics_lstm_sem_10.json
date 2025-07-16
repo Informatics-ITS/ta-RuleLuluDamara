@@ -1,0 +1,10 @@
+{
+    "semester": 10,
+    "loss": NaN,
+    "accuracy": 0.0647,
+    "precision": 0.0081,
+    "recall": 0.125,
+    "f1_score": 0.0152,
+    "training_duration_seconds": 107.39,
+    "model_path": "model_pts_vokasi/lstm_sem_10.keras"
+}

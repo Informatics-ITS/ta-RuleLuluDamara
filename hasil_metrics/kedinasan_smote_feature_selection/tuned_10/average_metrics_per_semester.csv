@@ -1,0 +1,13 @@
+semester,avg_val_loss,avg_val_accuracy,avg_val_precision,avg_val_recall,avg_val_f1_score,avg_training_duration,best_fold,best_fold_val_accuracy,test_loss,test_accuracy,test_precision,test_recall,test_f1_score,model_path
+1,0.2794,0.8932,0.8722,0.8729,0.8699,44.34,5,0.8970205783843994,0.8813,0.6961,0.4416,0.5664,0.4671,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_1.keras
+2,0.2241,0.9143,0.8955,0.8958,0.8951,81.18,1,0.9172857403755188,0.7498,0.793,0.519,0.6123,0.5484,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_2.keras
+3,0.2189,0.9187,0.9079,0.9084,0.9077,112.61,2,0.9255443215370178,0.7799,0.8031,0.5177,0.6265,0.5523,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_3.keras
+4,0.2088,0.9215,0.9162,0.917,0.9163,193.99,4,0.924631655216217,0.7113,0.8192,0.513,0.6285,0.5513,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_4.keras
+5,0.198,0.9243,0.9216,0.9225,0.9218,171.63,4,0.9277970790863037,0.6545,0.8167,0.5082,0.64,0.5472,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_5.keras
+6,0.1884,0.9287,0.9277,0.9284,0.9278,170.65,5,0.9302155375480652,0.5812,0.8554,0.5432,0.6554,0.5834,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_6.keras
+7,0.1791,0.931,0.9305,0.9299,0.93,184.47,3,0.9355342984199524,0.5778,0.853,0.541,0.6633,0.5841,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_7.keras
+8,0.1757,0.9335,0.9336,0.9333,0.9332,198.93,5,0.9372573494911194,0.5839,0.8625,0.5629,0.6606,0.5953,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_8.keras
+9,0.174,0.9345,0.9344,0.9345,0.9343,207.73,1,0.9369680285453796,0.6341,0.8539,0.537,0.6593,0.5786,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_9.keras
+10,0.1739,0.9338,0.9338,0.9338,0.9336,215.89,3,0.9372926354408264,0.6291,0.8618,0.5876,0.6962,0.6262,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_10.keras
+11,0.1727,0.9342,0.9342,0.9342,0.934,201.62,3,0.9363405704498291,0.6524,0.8547,0.5483,0.6758,0.5931,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_11.keras
+12,0.1747,0.9342,0.9343,0.9342,0.9341,209.66,4,0.9363440871238708,0.6306,0.852,0.5633,0.6931,0.6048,model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_12.keras

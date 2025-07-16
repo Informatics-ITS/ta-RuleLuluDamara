@@ -1,0 +1,10 @@
+{
+    "semester": 8,
+    "loss": 0.3184,
+    "accuracy": 0.8979,
+    "precision": 0.8794,
+    "recall": 0.802,
+    "f1_score": 0.8306,
+    "training_duration_seconds": 759.13,
+    "model_path": "model_kedinasan_vokasi/lstm_sem_8.keras"
+}

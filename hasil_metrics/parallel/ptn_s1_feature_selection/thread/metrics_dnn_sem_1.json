@@ -1,0 +1,10 @@
+{
+    "semester": 1,
+    "loss": 1.3249,
+    "accuracy": 0.5013,
+    "precision": 0.2513,
+    "recall": 0.5013,
+    "f1_score": 0.3347,
+    "training_duration_seconds": 33.09,
+    "model_path": "model_PTN_S1/Parallel/1FeatureSelection/thread/dnn_sem_1\\model.keras"
+}

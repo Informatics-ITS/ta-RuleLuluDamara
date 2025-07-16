@@ -1,0 +1,15 @@
+semester,loss,accuracy,precision,recall,f1_score,training_duration_seconds,model_path
+1,1.3681,0.5547,0.5824,0.5393,0.5158,8.91,model_ptn_smote_feature_selection/tuned_7/dnn_sem_1.keras
+2,1.0504,0.6656,0.6719,0.682,0.6678,15.45,model_ptn_smote_feature_selection/tuned_7/dnn_sem_2.keras
+3,0.8216,0.7202,0.7149,0.7361,0.7175,21.85,model_ptn_smote_feature_selection/tuned_7/dnn_sem_3.keras
+4,0.7646,0.7335,0.7279,0.7385,0.7279,27.5,model_ptn_smote_feature_selection/tuned_7/dnn_sem_4.keras
+5,0.6933,0.7677,0.7645,0.7724,0.7621,32.96,model_ptn_smote_feature_selection/tuned_7/dnn_sem_5.keras
+6,0.6717,0.7686,0.7636,0.7655,0.7611,38.03,model_ptn_smote_feature_selection/tuned_7/dnn_sem_6.keras
+7,0.6727,0.7485,0.7554,0.7514,0.7441,41.43,model_ptn_smote_feature_selection/tuned_7/dnn_sem_7.keras
+8,0.6322,0.7755,0.7782,0.7753,0.7695,43.86,model_ptn_smote_feature_selection/tuned_7/dnn_sem_8.keras
+9,0.6337,0.7748,0.7798,0.7735,0.7701,44.83,model_ptn_smote_feature_selection/tuned_7/dnn_sem_9.keras
+10,0.6172,0.7806,0.7822,0.781,0.7772,46.21,model_ptn_smote_feature_selection/tuned_7/dnn_sem_10.keras
+11,0.6206,0.7754,0.7833,0.7747,0.7715,46.4,model_ptn_smote_feature_selection/tuned_7/dnn_sem_11.keras
+12,0.6258,0.776,0.7847,0.7762,0.7719,46.78,model_ptn_smote_feature_selection/tuned_7/dnn_sem_12.keras
+13,0.625,0.7743,0.7801,0.7735,0.7734,46.66,model_ptn_smote_feature_selection/tuned_7/dnn_sem_13.keras
+14,0.6118,0.7794,0.7901,0.7797,0.777,46.78,model_ptn_smote_feature_selection/tuned_7/dnn_sem_14.keras

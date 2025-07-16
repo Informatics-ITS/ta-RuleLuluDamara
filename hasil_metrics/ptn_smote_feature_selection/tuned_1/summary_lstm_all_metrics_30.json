@@ -1,0 +1,131 @@
+{
+    "duration": 2993.34,
+    "models": [
+        {
+            "semester": 4,
+            "accuracy": 0.8577,
+            "precision": 0.6473,
+            "f1": 0.5966,
+            "recall": 0.5965,
+            "dur": 467.97,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_4.keras"
+        },
+        {
+            "semester": 1,
+            "accuracy": 0.831,
+            "precision": 0.5539,
+            "f1": 0.5076,
+            "recall": 0.5174,
+            "dur": 110.17,
+              "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_1.keras"
+        },
+        {
+            "semester": 6,
+            "accuracy": 0.5955,
+            "precision": 0.2527,
+            "f1": 0.2633,
+            "recall": 0.2808,
+            "dur": 198.69,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_6.keras"
+        },
+        {
+            "semester": 11,
+            "accuracy": 0.5881,
+            "precision": 0.2944,
+            "f1": 0.2721,
+            "recall": 0.2779,
+            "dur": 223.8,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_11.keras"
+        },
+        {
+            "semester": 8,
+            "accuracy": 0.577,
+            "precision": 0.2848,
+            "f1": 0.2362,
+            "recall": 0.2516,
+            "dur": 228.24,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_8.keras"
+        },
+        {
+            "semester": 12,
+            "accuracy": 0.5759,
+            "precision": 0.2817,
+            "f1": 0.2524,
+            "recall": 0.2638,
+            "dur": 237.74,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_12.keras"
+        },
+        {
+            "semester": 9,
+            "accuracy": 0.5536,
+            "precision": 0.29,
+            "f1": 0.2454,
+            "recall": 0.2602,
+            "dur": 221.55,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_9.keras"
+        },
+        {
+            "semester": 5,
+            "accuracy": 0.5114,
+            "precision": 0.2396,
+            "f1": 0.1867,
+            "recall": 0.211,
+            "dur": 165.77,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_5.keras"
+        },
+        {
+            "semester": 10,
+            "accuracy": 0.5076,
+            "precision": 0.2727,
+            "f1": 0.2196,
+            "recall": 0.2289,
+            "dur": 222.09,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_10.keras"
+        },
+        {
+            "semester": 14,
+            "accuracy": 0.4697,
+            "precision": 0.2423,
+            "f1": 0.194,
+            "recall": 0.2135,
+            "dur": 247.82,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_14.keras"
+        },
+        {
+            "semester": 7,
+            "accuracy": 0.4562,
+            "precision": 0.2046,
+            "f1": 0.1895,
+            "recall": 0.2008,
+            "dur": 211.01,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_7.keras"
+        },
+        {
+            "semester": 3,
+            "accuracy": 0.4407,
+            "precision": 0.1168,
+            "f1": 0.1272,
+            "recall": 0.1762,
+            "dur": 110.36,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_3.keras"
+        },
+        {
+            "semester": 2,
+            "accuracy": 0.4127,
+            "precision": 0.0937,
+            "f1": 0.1163,
+            "recall": 0.1609,
+            "dur": 77.13,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_2.keras"
+        },
+        {
+            "semester": 13,
+            "accuracy": 0.0089,
+            "precision": 0.001,
+            "f1": 0.002,
+            "recall": 0.1111,
+            "dur": 246.42,
+            "model_path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_13.keras"
+        }
+    ]
+}

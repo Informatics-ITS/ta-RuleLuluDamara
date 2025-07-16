@@ -1,0 +1,10 @@
+{
+    "semester": 14,
+    "loss": 1.4207,
+    "accuracy": 0.4404,
+    "precision": 0.055,
+    "recall": 0.125,
+    "f1_score": 0.0764,
+    "training_duration_seconds": 8.25,
+    "model_path": "model_pts_vokasi/dnn_sem_14.keras"
+}

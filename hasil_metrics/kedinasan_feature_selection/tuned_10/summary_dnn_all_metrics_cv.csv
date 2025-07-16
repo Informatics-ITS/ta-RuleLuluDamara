@@ -1,0 +1,13 @@
+total_duration,cv_n_splits,top_models
+2466.13,5,"{'semester': 8, 'test_accuracy': 0.8955, 'test_f1_score': 0.6052, 'avg_val_accuracy': 0.9064, 'best_fold': 2, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_8.keras'}"
+2466.13,5,"{'semester': 9, 'test_accuracy': 0.894, 'test_f1_score': 0.6144, 'avg_val_accuracy': 0.9086, 'best_fold': 5, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_9.keras'}"
+2466.13,5,"{'semester': 10, 'test_accuracy': 0.894, 'test_f1_score': 0.6481, 'avg_val_accuracy': 0.9095, 'best_fold': 5, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_10.keras'}"
+2466.13,5,"{'semester': 12, 'test_accuracy': 0.8902, 'test_f1_score': 0.6249, 'avg_val_accuracy': 0.9086, 'best_fold': 5, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_12.keras'}"
+2466.13,5,"{'semester': 7, 'test_accuracy': 0.8896, 'test_f1_score': 0.598, 'avg_val_accuracy': 0.9078, 'best_fold': 2, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_7.keras'}"
+2466.13,5,"{'semester': 6, 'test_accuracy': 0.8889, 'test_f1_score': 0.5972, 'avg_val_accuracy': 0.9027, 'best_fold': 5, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_6.keras'}"
+2466.13,5,"{'semester': 11, 'test_accuracy': 0.8884, 'test_f1_score': 0.6068, 'avg_val_accuracy': 0.9077, 'best_fold': 5, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_11.keras'}"
+2466.13,5,"{'semester': 5, 'test_accuracy': 0.8738, 'test_f1_score': 0.5763, 'avg_val_accuracy': 0.8903, 'best_fold': 2, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_5.keras'}"
+2466.13,5,"{'semester': 4, 'test_accuracy': 0.8686, 'test_f1_score': 0.5749, 'avg_val_accuracy': 0.8776, 'best_fold': 3, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_4.keras'}"
+2466.13,5,"{'semester': 3, 'test_accuracy': 0.8582, 'test_f1_score': 0.558, 'avg_val_accuracy': 0.8601, 'best_fold': 4, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_3.keras'}"
+2466.13,5,"{'semester': 2, 'test_accuracy': 0.8462, 'test_f1_score': 0.5657, 'avg_val_accuracy': 0.8411, 'best_fold': 4, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_2.keras'}"
+2466.13,5,"{'semester': 1, 'test_accuracy': 0.8272, 'test_f1_score': 0.5247, 'avg_val_accuracy': 0.8249, 'best_fold': 2, 'model_path': 'model_kedinasan_feature_selection/tuned_10/dnn_sem_1.keras'}"

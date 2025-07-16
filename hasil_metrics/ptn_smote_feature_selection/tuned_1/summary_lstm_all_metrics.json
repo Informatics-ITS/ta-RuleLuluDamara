@@ -1,0 +1,131 @@
+{
+    "duration": 3434.56,
+    "models": [
+        {
+            "semester": 5,
+            "accuracy": 0.6249,
+            "precision": 0.2561,
+            "f1": 0.2557,
+            "recall": 0.2706,
+            "dur": 258.14,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_5.keras"
+        },
+        {
+            "semester": 7,
+            "accuracy": 0.6071,
+            "precision": 0.2964,
+            "f1": 0.2886,
+            "recall": 0.2994,
+            "dur": 244.5,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_7.keras"
+        },
+        {
+            "semester": 13,
+            "accuracy": 0.6002,
+            "precision": 0.3468,
+            "f1": 0.29,
+            "recall": 0.299,
+            "dur": 370.17,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_13.keras"
+        },
+        {
+            "semester": 10,
+            "accuracy": 0.5883,
+            "precision": 0.305,
+            "f1": 0.2934,
+            "recall": 0.2992,
+            "dur": 282.13,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_10.keras"
+        },
+        {
+            "semester": 9,
+            "accuracy": 0.5665,
+            "precision": 0.2685,
+            "f1": 0.2557,
+            "recall": 0.2624,
+            "dur": 290.16,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_9.keras"
+        },
+        {
+            "semester": 11,
+            "accuracy": 0.5599,
+            "precision": 0.2751,
+            "f1": 0.2514,
+            "recall": 0.2656,
+            "dur": 276.52,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_11.keras"
+        },
+        {
+            "semester": 14,
+            "accuracy": 0.5473,
+            "precision": 0.278,
+            "f1": 0.2577,
+            "recall": 0.2636,
+            "dur": 411.8,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_14.keras"
+        },
+        {
+            "semester": 4,
+            "accuracy": 0.5442,
+            "precision": 0.2126,
+            "f1": 0.2054,
+            "recall": 0.2246,
+            "dur": 178.5,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_4.keras"
+        },
+        {
+            "semester": 12,
+            "accuracy": 0.4952,
+            "precision": 0.26,
+            "f1": 0.2069,
+            "recall": 0.2215,
+            "dur": 280.29,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_12.keras"
+        },
+        {
+            "semester": 8,
+            "accuracy": 0.4903,
+            "precision": 0.2738,
+            "f1": 0.1958,
+            "recall": 0.2128,
+            "dur": 281.38,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_8.keras"
+        },
+        {
+            "semester": 3,
+            "accuracy": 0.461,
+            "precision": 0.1548,
+            "f1": 0.1304,
+            "recall": 0.1781,
+            "dur": 130.56,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_3.keras"
+        },
+        {
+            "semester": 6,
+            "accuracy": 0.4355,
+            "precision": 0.1616,
+            "f1": 0.1355,
+            "recall": 0.19,
+            "dur": 251.38,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_6.keras"
+        },
+        {
+            "semester": 2,
+            "accuracy": 0.4283,
+            "precision": 0.1388,
+            "f1": 0.1495,
+            "recall": 0.1698,
+            "dur": 90.77,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_2.keras"
+        },
+        {
+            "semester": 1,
+            "accuracy": 0.3664,
+            "precision": 0.0407,
+            "f1": 0.0596,
+            "recall": 0.1111,
+            "dur": 43.02,
+            "path": "model_ptn_smote_feature_selection/tuned_1/lstm_sem_1.keras"
+        }
+    ]
+}

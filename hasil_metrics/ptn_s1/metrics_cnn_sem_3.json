@@ -1,0 +1,10 @@
+{
+    "semester": 3,
+    "loss": 1.5551,
+    "accuracy": 0.5649,
+    "precision": 0.2318,
+    "recall": 0.1971,
+    "f1_score": 0.1666,
+    "training_duration_seconds": 19.82,
+    "model_path": "model_PTN_S1/cnn_sem_3.keras"
+}

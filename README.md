@@ -1,8 +1,8 @@
 # 🏁 Tugas Akhir (TA) - Final Project
 
-**Nama Mahasiswa**: Rule Lulu Damara 
+**Nama Mahasiswa**: Rule Lulu Damara
 
-**NRP**: 5025211050 
+**NRP**: 5025211050
 
 **Judul TA**: Prediksi Kelulusan pada Data Histori Mahasiswa Menggunakan Deep Learning dan Parallel Computing
 
@@ -12,25 +12,27 @@
 
 ---
 
-## 📺 Demo Aplikasi  
+## 📺 Demo Aplikasi
 
 [![Demo Aplikasi](https://i.ytimg.com/vi/NOJqvTrVbgU/maxresdefault.jpg)](https://www.youtube.com/watch?v=NOJqvTrVbgU)  
-*Klik gambar di atas untuk menonton demo*
+_Klik gambar di atas untuk menonton demo_
 
 ---
 
-*Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan.*
+_Konten selanjutnya hanya merupakan contoh awalan yang baik. Anda dapat berimprovisasi bila diperlukan._
 
-## 🛠 Panduan Instalasi & Menjalankan Software  
+## 🛠 Panduan Instalasi & Menjalankan Software
 
-### Prasyarat  
+### Prasyarat
+
 - Daftar dependensi (contoh):
   - Python 3.11+
   - pip (Python package manager)
   - Virtual environment (Opsional)
 
-### Langkah-langkah  
-1. **Clone Repository**  
+### Langkah-langkah
+
+1. **Clone Repository**
    ```bash
    git clone https://github.com/Informatics-ITS/ta-RuleLuluDamara.git
    ```
@@ -39,18 +41,21 @@
    cd ta-RuleLuluDamara
    pip install -r requirements.txt
    ```
-3. **Menjalankan Notebook Eksperimen Buka Jupyter Notebook lalu pilih salah satu dari folder ```notebooks/```**
-  - Praposes_data
-  - Kedinasan
-  - Kedinasan_SMOTE
-  - PTN
-  - PTN_SMOTE
-  - PTS
-  - PTS_SMOTE
+3. **Menjalankan Notebook Eksperimen Buka Jupyter Notebook lalu pilih salah satu dari bawah ini**
+
+- Praposes_data
+- Kedinasan
+- Kedinasan_Smote
+- PTN
+- PTN_Smote
+- PTS
+- PTS_Smote
+
 ---
 
 ## 📚 Hasil Testing
-Hasil evaluasi dari semua model dan skenario disimpan dalam folder ```hasil_testing/```:
+
+Hasil evaluasi dari semua model dan skenario disimpan dalam folder `hasil_metrics/`:
 
 ---
 
@@ -63,5 +68,6 @@ Dataset mahasiswa digunakan dalam tugas akhir ini bersumber dari Perusahaan SEVI
 ## ⁉️ Pertanyaan?
 
 Hubungi:
+
 - Penulis: 5025211050@student.its.ac.id
 - Pembimbing Utama: dini_navastara@if.its.ac.id

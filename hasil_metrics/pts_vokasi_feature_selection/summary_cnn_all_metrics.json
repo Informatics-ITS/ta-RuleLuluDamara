@@ -1,0 +1,20 @@
+{
+    "total_training_duration_seconds": 203.83,
+    "top_3_models": [
+        {
+            "semester": 11,
+            "accuracy": 0.7232,
+            "model_path": "model_pts_vokasi/1FeatureSelection/cnn_sem_11.keras"
+        },
+        {
+            "semester": 6,
+            "accuracy": 0.6909,
+            "model_path": "model_pts_vokasi/1FeatureSelection/cnn_sem_6.keras"
+        },
+        {
+            "semester": 4,
+            "accuracy": 0.6727,
+            "model_path": "model_pts_vokasi/1FeatureSelection/cnn_sem_4.keras"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+semester,loss,accuracy,precision,recall,f1_score,training_duration_seconds,model_path
+2,0.6853,0.7173,0.6753,0.634,0.6246,10.54,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_2\model.keras
+3,2.0878,0.1613,0.1055,0.1254,0.04,9.95,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_3\model.keras
+4,2.0817,0.1559,0.1156,0.1754,0.1211,10.29,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_4\model.keras
+5,2.0991,0.0662,0.0951,0.0534,0.0209,10.24,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_5\model.keras
+6,2.0824,0.1283,0.1081,0.1225,0.0586,10.8,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_6\model.keras
+1,0.6217,0.7539,0.7267,0.7391,0.7246,56.69,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_1\model.keras
+8,0.7923,0.6954,0.7067,0.6943,0.6894,22.8,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_8\model.keras
+9,2.0842,0.0949,0.1197,0.0943,0.0722,23.29,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_9\model.keras
+10,0.6351,0.7614,0.7676,0.7601,0.758,23.17,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_10\model.keras
+11,0.6406,0.7677,0.7854,0.769,0.7644,23.18,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_11\model.keras
+12,1.2069,0.5317,0.5359,0.5296,0.4867,23.17,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_12\model.keras
+7,0.4698,0.8588,0.8584,0.8567,0.8559,172.33,model_kedinasan_smote_feature_selection/parallel/thread/dnn_sem_7\model.keras

@@ -1,0 +1,13 @@
+total_duration,cv_n_splits,top_models
+10024.99,5,"{'semester': 8, 'test_accuracy': 0.8625, 'test_f1_score': 0.5953, 'avg_val_accuracy': 0.9335, 'best_fold': 5, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_8.keras'}"
+10024.99,5,"{'semester': 10, 'test_accuracy': 0.8618, 'test_f1_score': 0.6262, 'avg_val_accuracy': 0.9338, 'best_fold': 3, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_10.keras'}"
+10024.99,5,"{'semester': 6, 'test_accuracy': 0.8554, 'test_f1_score': 0.5834, 'avg_val_accuracy': 0.9287, 'best_fold': 5, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_6.keras'}"
+10024.99,5,"{'semester': 11, 'test_accuracy': 0.8547, 'test_f1_score': 0.5931, 'avg_val_accuracy': 0.9342, 'best_fold': 3, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_11.keras'}"
+10024.99,5,"{'semester': 9, 'test_accuracy': 0.8539, 'test_f1_score': 0.5786, 'avg_val_accuracy': 0.9345, 'best_fold': 1, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_9.keras'}"
+10024.99,5,"{'semester': 7, 'test_accuracy': 0.853, 'test_f1_score': 0.5841, 'avg_val_accuracy': 0.931, 'best_fold': 3, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_7.keras'}"
+10024.99,5,"{'semester': 12, 'test_accuracy': 0.852, 'test_f1_score': 0.6048, 'avg_val_accuracy': 0.9342, 'best_fold': 4, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_12.keras'}"
+10024.99,5,"{'semester': 4, 'test_accuracy': 0.8192, 'test_f1_score': 0.5513, 'avg_val_accuracy': 0.9215, 'best_fold': 4, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_4.keras'}"
+10024.99,5,"{'semester': 5, 'test_accuracy': 0.8167, 'test_f1_score': 0.5472, 'avg_val_accuracy': 0.9243, 'best_fold': 4, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_5.keras'}"
+10024.99,5,"{'semester': 3, 'test_accuracy': 0.8031, 'test_f1_score': 0.5523, 'avg_val_accuracy': 0.9187, 'best_fold': 2, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_3.keras'}"
+10024.99,5,"{'semester': 2, 'test_accuracy': 0.793, 'test_f1_score': 0.5484, 'avg_val_accuracy': 0.9143, 'best_fold': 1, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_2.keras'}"
+10024.99,5,"{'semester': 1, 'test_accuracy': 0.6961, 'test_f1_score': 0.4671, 'avg_val_accuracy': 0.8932, 'best_fold': 5, 'model_path': 'model_kedinasan_smote_feature_selection/tuned_10/dnn_sem_1.keras'}"
